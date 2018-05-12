@@ -1,3 +1,3 @@
 # threadintheweb
 
-react frontend and servless api
+community directory with react frontend and serverless api
