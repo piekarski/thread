@@ -1,0 +1,8 @@
+{
+  "body": "{\"content\":\"answer content sample\",\"attachment\":\"attachmentsample.jpg\"}",
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "exam-test-user"
+    }
+  }
+}

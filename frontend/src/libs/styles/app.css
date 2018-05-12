@@ -1,0 +1,28 @@
+.App {
+  margin-top: 15px;
+}
+
+.App .navbar-brand {
+  font-weight: bold;
+}
+.h1, h1
+{
+  font-size: 24px;
+}
+.header{
+  background: url('threadLogo.jpg') 20px/200px no-repeat;
+  height: 150px;
+
+}
+.header.row span{
+  font-size: 24px;
+}
+.navbar.navbar-default{
+  float: right;
+}
+.catch-phrase{
+  margin-left: 250px;
+}
+.nav-link{
+  cursor: pointer;
+}
